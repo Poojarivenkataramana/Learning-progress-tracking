@@ -12,6 +12,13 @@ A Python project to track and visualize coding consistency using Matplotlib.
 - Python
 - Matplotlib
 
+## ▶️ How to Run
+
+1.⁠ ⁠Install required library:
+```bash
+pip install matplotlib
+
+
 ## 📸 Output
 ![Output](output.png)
 
