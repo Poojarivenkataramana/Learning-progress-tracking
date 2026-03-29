@@ -13,7 +13,7 @@ A Python project to track and visualize coding consistency using Matplotlib.
 - Matplotlib
 
 ## 📸 Output
-![Output](output.png)
+![Output]
 
 ## 📈 Key Insight
 This project helps identify productivity patterns and improve consistency over time.
